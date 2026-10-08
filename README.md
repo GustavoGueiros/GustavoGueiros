@@ -12,8 +12,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=GustavoGueiros&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoGueiros&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=GustavoGueiros&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
