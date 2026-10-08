@@ -9,7 +9,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoGueiros&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GustavoGueiros&bg_color=000000&color=ffffff&line=ffffff&point=403c3c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=[GustavoGueiros]&show_icons=true&theme=dracula)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=GustavoGueiros&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
